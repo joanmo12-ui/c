@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="Animal Planet" group-title="Documentalumental", ANIMAL PLANET ORIG
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0 tvg-id="Animal Planet" group-title="Documental", ANIMAL PLANET ORIG
 http://181.78.8.199:8000/play/a0by/index.m3u8
 #EXTINF:0 tvg-id="Animal Planet" group-title="Documental", ANIMAL PLANET R2
 http://167.250.223.26:8085/play/a06t/index.m3u8
@@ -71,7 +70,7 @@ http://190.171.83.2:4000/play/a0i1/index.m3u8
 #EXTINF:0,America TV HD
 #EXTVLCOPT:network-caching=1000
 http://190.3.108.46:8400/play/a055/index.m3u8
-#EXTINF:0,ANIMAL PLANET mult
+#EXTINF:0,ANIMAL PLANET
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0by/index.m3u8
 #EXTINF:0,Animal Planet
@@ -1475,6 +1474,7 @@ http://167.250.223.26:8085/play/a083/index.m3u8
 #EXTINF:0,ZOOMOO
 #EXTVLCOPT:network-caching=1000
 http://167.250.223.26:8085/play/a00j/index.m3u8
+
 
 
 

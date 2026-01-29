@@ -8,6 +8,8 @@ http://167.250.223.26:8085/play/a06t/index.m3u8
 http://190.171.83.2:4000/play/a0pm/index.m3u8
 #EXTINF:0 tvg-id="Animal Planet" group-title="Documental", ANIMAL PLANET R4
 http://181.78.8.199:8000/play/a06w/index.m3u8
+#EXTINF:0, IMAGEN TV
+https://live.eu-north-1a.cf.dmcdn.net/sec2(D_TOcYma2GNI_ZEDcaVkw9KHbhsdUk7fXPPpQbXNANbGFj9Q_y-bVWKMi1siDc69C8IQ0zA_80qkjoY7_igTGNX5w1MCAC5aGpjUL1M3IKjwjhQswx887EyHKapgMP-X)/dm/3/x96n7we/s/live-720.m3u8#cell=lcf-eu-north-1a
 
 #EXTINF:0 tvg-id="Love Nature" group-title="Documental", LOVE NATURE
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
@@ -1494,6 +1496,7 @@ http://167.250.223.26:8085/play/a083/index.m3u8
 #EXTINF:0,ZOOMOO
 #EXTVLCOPT:network-caching=1000
 http://167.250.223.26:8085/play/a00j/index.m3u8
+
 
 
 

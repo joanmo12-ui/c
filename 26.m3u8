@@ -1,4 +1,72 @@
 #EXTM3U
+# -----astra mx 26/03/26 ------------
+#EXTINF:-1 group-title="-",0006 De película MX
+http://148.230.28.85:8002/play/a001
+#EXTINF:-1 group-title="-",0007 TUDN MX
+http://148.230.28.85:8002/play/a007
+#EXTINF:-1 group-title="-",008 Agrorural
+http://148.230.28.85:8002/play/008
+#EXTINF:-1 group-title="-",009 Cariñosa TV
+http://148.230.28.85:8002/play/009
+#EXTINF:-1 group-title="-",010 Vea Canal
+http://148.230.28.85:8002/play/a004
+#EXTINF:-1 group-title="-",012 TN23
+http://148.230.28.85:8002/play/012
+#EXTINF:-1 group-title="-",014 TUDN HD
+http://148.230.28.85:8002/play/014
+#EXTINF:-1 group-title="-",018 Deportes 1 HD
+http://148.230.28.85:8002/play/018
+#EXTINF:-1 group-title="-",019 Deportes 2 HD
+http://148.230.28.85:8002/play/019
+#EXTINF:-1 group-title="-",020 Deportes 3 HD
+http://148.230.28.85:8002/play/020
+#EXTINF:-1 group-title="-",021 Deportes 4 HD
+http://148.230.28.85:8002/play/021
+#EXTINF:-1 group-title="-",023 FOX T HD
+http://148.230.28.85:8002/play/023
+#EXTINF:-1 group-title="-",026 Picosa TV HD
+http://148.230.28.85:8002/play/026
+#EXTINF:-1 group-title="-",027 Bandamax HD
+http://148.230.28.85:8002/play/027
+#EXTINF:-1 group-title="-",028 Telehit HD
+http://148.230.28.85:8002/play/028
+#EXTINF:-1 group-title="-",029 MTV HD
+http://148.230.28.85:8002/play/029
+#EXTINF:-1 group-title="-",030 Distrito Comedia HD
+http://148.230.28.85:8002/play/030
+#EXTINF:-1 group-title="-",032 La Estrellas HD
+http://148.230.28.85:8002/play/032
+#EXTINF:-1 group-title="-",033 Tlnovelas HD
+http://148.230.28.85:8002/play/033
+#EXTINF:-1 group-title="-",034 Unimas HD
+http://148.230.28.85:8002/play/034
+#EXTINF:-1 group-title="-",037 Telemundo USA HD
+http://148.230.28.85:8002/play/037
+#EXTINF:-1 group-title="-",040 Univision USA HD
+http://148.230.28.85:8002/play/040
+#EXTINF:-1 group-title="-",041 Canal 5 Mexico HD
+http://148.230.28.85:8002/play/041
+#EXTINF:-1 group-title="-",044 Plim Plim TV HD
+http://148.230.28.85:8002/play/044
+#EXTINF:-1 group-title="-",048 Nickelodeon HD
+http://148.230.28.85:8002/play/048
+#EXTINF:-1 group-title="-",055 Bethel SRT
+http://148.230.28.85:8002/play/055
+#EXTINF:-1 group-title="-",056 Canal 27
+http://148.230.28.85:8002/play/056
+#EXTINF:-1 group-title="-",058 EWTN
+http://148.230.28.85:8002/play/058
+#EXTINF:-1 group-title="-",061 BITME HD
+http://148.230.28.85:8002/play/061
+#EXTINF:-1 group-title="-",067 Cowboy Cinema
+http://148.230.28.85:8002/play/067
+#EXTINF:-1 group-title="-",068 De Pelicula HD
+http://148.230.28.85:8002/play/068
+#EXTINF:-1 group-title="-",122 Teleflix HD
+http://148.230.28.85:8002/play/122
+#EXTINF:-1 group-title="-",004 Canal 4 Multinet
+http://148.230.28.85:8002/play/004
+
 #------------Brasil 26/03/26-----------------------
 #EXTINF:-1 group-title="-",AMC
 http://45.178.215.69:8000/play/a05b

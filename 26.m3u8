@@ -1,4 +1,69 @@
 #EXTM3U
+#----21/04/26
+#EXTINF:11,A+ Guate
+45.228.233.222:8000/play/a052
+#EXTINF:11,Adult Swim
+45.228.233.222:8000/play/a0g4
+#EXTINF:11,Bandamax
+45.228.233.222:8000/play/a04u
+#EXTINF:11,Canal 7
+45.228.233.222:8000/play/a0h4
+#EXTINF:11,Canal Antigua
+45.228.233.222:8000/play/a0h2
+#EXTINF:11,Cartoonito
+45.228.233.222:8000/play/a0g0
+#EXTINF:11,Concert Channel
+45.228.233.222:8000/play/a02r
+#EXTINF:11,D Pelicula
+45.228.233.222:8000/play/a050
+#EXTINF:11,Discovery Kids
+45.228.233.222:8000/play/a03l
+#EXTINF:11,DisneyJr
+45.228.233.222:8000/play/a0g1
+#EXTINF:11,Distrito Comedia
+45.228.233.222:8000/play/a04z
+#EXTINF:11,ESPN 2
+45.228.233.222:8000/play/a04s
+#EXTINF:11,ESPN 3
+45.228.233.222:8000/play/a04t
+#EXTINF:11,Eurochannel
+45.228.233.222:8000/play/a00x
+#EXTINF:11,Europa
+45.228.233.222:8000/play/a00u
+#EXTINF:11,Gourmet
+45.228.233.222:8000/play/a04p
+#EXTINF:11,HBO 2
+45.228.233.222:8000/play/a00c
+#EXTINF:11,Las Estrellas
+45.228.233.222:8000/play/a04x
+#EXTINF:11,Latin America Sports
+45.228.233.222:8000/play/a03j
+#EXTINF:11,Nativa TV
+45.228.233.222:8000/play/a03m
+#EXTINF:11,Playboy
+45.228.233.222:8000/play/a02t
+#EXTINF:11,Semillitas
+45.228.233.222:8000/play/a0g3
+#EXTINF:0,Sky Sports
+45.228.233.222:8000/play/a04w
+#EXTINF:11,Sony Channel
+45.228.233.222:8000/play/a03s
+#EXTINF:11,Telenovelas
+45.228.233.222:8000/play/a04v
+#EXTINF:11,Tigo Sports
+45.228.233.222:8000/play/a02v
+#EXTINF:11,TNT Novelas
+45.228.233.222:8000/play/a0g9
+#EXTINF:11,Tooncast
+45.228.233.222:8000/play/a03k
+#EXTINF:11,TUDN
+45.228.233.222:8000/play/a04y
+#EXTINF:11,TVAzteca
+45.228.233.222:8000/play/a0g6
+#EXTINF:11,Venus
+45.228.233.222:8000/play/a02u
+
+
 #-----06/04/26-----
 #EXTINF:-1,Radio Kiss Kiss TV
 http://78.130.250.2:8023/play/a061/index.m3u8

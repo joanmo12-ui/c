@@ -1,8 +1,6 @@
 #EXTM3U
 #18/05/26
 
-https://raw.githubusercontent.com/joanmo12-ui/c/refs/heads/main/sr.m3u8
-
 #Salvador
 #EXTINF:-1,11 - Repretel
 http://186.33.25.234:8125/play/a09h/index.m3u8

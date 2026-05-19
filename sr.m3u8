@@ -1,4 +1,7 @@
 #EXTM3U
+
+https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/PlutoTV-All.m3u
+
 #EXTINF:0,  A&E
 #EXTVLCOPT:network-caching=1000
 http://38.49.128.38:8000/play/a0bv/index.m3u8

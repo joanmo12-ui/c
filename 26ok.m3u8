@@ -1,9 +1,9 @@
 
 #EXTM3U
-16/06/206
+#16/06/206
 http://209.87.175.160:5001/playlist.m3u8
 
-15/06/2026
+#15/06/2026
 
 https://raw.githubusercontent.com/luchitogali2020-bot/prueba2/refs/heads/main/prueba.m3u
 
@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/JMigue85/IPTV-SV/refs/heads/main/IPTVSV.m3u
 https://gist.githubusercontent.com/shobhitsharma/b13b9e0a72f3e88db88d4991d0a29fdf/raw/7d95bf13463c313ecdb090ad6d05851e834cce7b/test-iptv.m3u
 
 
-05/06/26
+#05/06/26
 
 #EXTINF:-1 group-title="-",A&E Latam
 http://181.78.21.174:8015/play/a04o/index.m3u8
@@ -149,10 +149,10 @@ http://181.78.21.174:8015/play/a024/index.m3u8
 #EXTINF:-1 group-title="-",WIN
 http://181.78.21.174:8015/play/a05q/index.m3u8
 
-29/05/2026
-México
+#29/05/2026
+#México
 http://209.87.175.160:5001/playlist.m3u?hls
-Colombia
+#Colombia
 http://190.217.66.92:8000//playlist.m3u?hls
 
 #EXTINF:-1 group-title="-",A&E Latam

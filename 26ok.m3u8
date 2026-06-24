@@ -1,10 +1,9 @@
 
 #EXTM3U
 
-23/06/2026
+#23/06/2026
 
-LISTA 
-
+http://170.247.204.9:8000//playlist.m3u?hls
 http://168.228.44.241:9998/playlist.m3u8
 
 #EXTINF:-1 group-title="-",AMC HD

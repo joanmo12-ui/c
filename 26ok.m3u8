@@ -1,6 +1,9 @@
 
 #EXTM3U
 23/06/2026
+LISTA 
+http://168.228.44.241:9998/playlist.m3u8
+CANALES
 #EXTINF:-1 group-title="-",AMC HD
 http://138.117.81.96:8000/play/a0fy/index.m3u8
 #EXTINF:-1 group-title="-",Animal Planet HD

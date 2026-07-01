@@ -1,12 +1,170 @@
 #EXTM3U
 
-29/06/26
+
 
 #EXTINF:-1 group-title="-",DSPORT
 https://streamvidex.qzz.io/videx/dsportsar/index.m3u8
 #EXTINF:-1 group-title="-",DSPORT+
 https://streamvidex.qzz.io/videx/dsportsplus/index.m3u8
 
+01/07/26
+#EXTINF:-1 group-title="-",A&E HD
+http://45.176.240.128:8889/play/a02l/index.m3u8
+#EXTINF:-1 group-title="-",AMC HD a00
+http://45.176.240.128:8889/play/a03r/index.m3u8
+#EXTINF:-1 group-title="-",AXN HD
+http://45.176.240.128:8889/play/a02e/index.m3u8
+#EXTINF:-1 group-title="-",Animal Planet HD a00
+http://45.176.240.128:8889/play/a01g/index.m3u8
+#EXTINF:-1 group-title="-",Arte 1 HD
+http://45.176.240.128:8889/play/a04k/index.m3u8
+#EXTINF:-1 group-title="-",BIS HD a01
+http://45.176.240.128:8889/play/a033/index.m3u8
+#EXTINF:-1 group-title="-",Band News HD a01
+http://45.176.240.128:8889/play/a03v/index.m3u8
+#EXTINF:-1 group-title="-",Band Sports HD a02
+http://45.176.240.128:8889/play/a043/index.m3u8
+#EXTINF:-1 group-title="-",CNN Brasil HD a00
+http://45.176.240.128:8889/play/a01e/index.m3u8
+#EXTINF:-1 group-title="-",Canal Sony HD a00
+http://45.176.240.128:8889/play/a016/index.m3u8
+#EXTINF:-1 group-title="-",Cartoon HD a01
+http://45.176.240.128:8889/play/a02s/index.m3u8
+#EXTINF:-1 group-title="-",Cartoonito HD a02
+http://45.176.240.128:8889/play/a03e/index.m3u8
+#EXTINF:-1 group-title="-",Cinemax HD a01
+http://45.176.240.128:8889/play/a036/index.m3u8
+#EXTINF:-1 group-title="-",Curta! HD
+http://45.176.240.128:8889/play/a02g/index.m3u8
+#EXTINF:-1 group-title="-",DUMDUM HD
+http://45.176.240.128:8889/play/a02k/index.m3u8
+#EXTINF:-1 group-title="-",Disc. Home & Health HD
+http://45.176.240.128:8889/play/a02c/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Channel HD a00
+http://45.176.240.128:8889/play/a019/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Kids HD a00
+http://45.176.240.128:8889/play/a017/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Science HD
+http://45.176.240.128:8889/play/a01l/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Theater HD
+http://45.176.240.128:8889/play/a01i/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Turbo HD
+http://45.176.240.128:8889/play/a02j/index.m3u8
+#EXTINF:-1 group-title="-",Discovery World HD
+http://45.176.240.128:8889/play/a02f/index.m3u8
+#EXTINF:-1 group-title="-",E! HD
+http://45.176.240.128:8889/play/a02r/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 2 HD a00
+http://45.176.240.128:8889/play/a014/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 3 HD a00
+http://45.176.240.128:8889/play/a015/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 4 HD a02
+http://45.176.240.128:8889/play/a044/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 5 HD a00
+http://45.176.240.128:8889/play/a00u/index.m3u8
+#EXTINF:-1 group-title="-",ESPN HD a00
+http://45.176.240.128:8889/play/a01d/index.m3u8
+#EXTINF:-1 group-title="-",Film & Arts HD a00
+http://45.176.240.128:8889/play/a01k/index.m3u8
+#EXTINF:-1 group-title="-",Food Network HD
+http://45.176.240.128:8889/play/a02b/index.m3u8
+#EXTINF:-1 group-title="-",GNT HD a01
+http://45.176.240.128:8889/play/a02q/index.m3u8
+#EXTINF:-1 group-title="-",Globo Nordeste HD
+http://45.176.240.128:8889/play/a056/index.m3u8
+#EXTINF:-1 group-title="-",GloboNews HD a01
+http://45.176.240.128:8889/play/a031/index.m3u8
+#EXTINF:-1 group-title="-",Globoplay Novelas HD
+http://45.176.240.128:8889/play/a04i/index.m3u8
+#EXTINF:-1 group-title="-",Globoplay Novelas HD
+http://45.176.240.128:8889/play/a020/index.m3u8
+#EXTINF:-1 group-title="-",Gloob HD a00
+http://45.176.240.128:8889/play/a023/index.m3u8
+#EXTINF:-1 group-title="-",Gloobinho HD a01
+http://45.176.240.128:8889/play/a03s/index.m3u8
+#EXTINF:-1 group-title="-",History 2 HD
+http://45.176.240.128:8889/play/a02i/index.m3u8
+#EXTINF:-1 group-title="-",ID - InvestigaĿªo Discovery HD
+http://45.176.240.128:8889/play/a02d/index.m3u8
+#EXTINF:-1 group-title="-",JP News HD a00
+http://45.176.240.128:8889/play/a01f/index.m3u8
+#EXTINF:-1 group-title="-",Lifetime HD
+http://45.176.240.128:8889/play/a02m/index.m3u8
+#EXTINF:-1 group-title="-",Megapix HD a01
+http://45.176.240.128:8889/play/a034/index.m3u8
+#EXTINF:-1 group-title="-",Modo Viagem HD a02
+http://45.176.240.128:8889/play/a042/index.m3u8
+#EXTINF:-1 group-title="-",Multishow HD a00
+http://45.176.240.128:8889/play/a00t/index.m3u8
+#EXTINF:-1 group-title="-",OFF HD a02
+http://45.176.240.128:8889/play/a045/index.m3u8
+#EXTINF:-1 group-title="-",Premiere 2 HD
+http://45.176.240.128:8889/play/a04q/index.m3u8
+#EXTINF:-1 group-title="-",Premiere 3 HD a01
+http://45.176.240.128:8889/play/a028/index.m3u8
+#EXTINF:-1 group-title="-",Premiere 4 HD a02
+http://45.176.240.128:8889/play/a03h/index.m3u8
+#EXTINF:-1 group-title="-",Premiere 5 HD a01
+http://45.176.240.128:8889/play/a029/index.m3u8
+#EXTINF:-1 group-title="-",Premiere 6 HD a01
+http://45.176.240.128:8889/play/a02x/index.m3u8
+#EXTINF:-1 group-title="-",Premiere 7 HD a02
+http://45.176.240.128:8889/play/a03i/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="a037",Premiere Clubes HD a01
+http://45.176.240.128:8889/play/a037/index.m3u8
+#EXTINF:-1 group-title="-",Prime Box HD a02
+http://45.176.240.128:8889/play/a049/index.m3u8
+#EXTINF:-1 group-title="-",RECORD NEWS
+http://45.176.240.128:8889/play/a04e/index.m3u8
+#EXTINF:-1 group-title="-",RECORDTV HD a01
+http://45.176.240.128:8889/play/a01z/index.m3u8
+#EXTINF:-1 group-title="-",REDE VIDA
+http://45.176.240.128:8889/play/a04h/index.m3u8
+#EXTINF:-1 group-title="-",REDETV
+http://45.176.240.128:8889/play/a059/index.m3u8
+#EXTINF:-1 group-title="-",SBT HD a02
+http://45.176.240.128:8889/play/a03t/index.m3u8
+#EXTINF:-1 group-title="-",Studio Universal HD
+http://45.176.240.128:8889/play/a02w/index.m3u8
+#EXTINF:-1 group-title="-",TLC HD
+http://45.176.240.128:8889/play/a02h/index.m3u8
+#EXTINF:-1 group-title="-",TNT HD a02
+http://45.176.240.128:8889/play/a046/index.m3u8
+#EXTINF:-1 group-title="-",TV JUSTI.A
+http://45.176.240.128:8889/play/a04g/index.m3u8
+#EXTINF:-1 group-title="-",TV NOVO TEMPO
+http://45.176.240.128:8889/play/a04b/index.m3u8
+#EXTINF:-1 group-title="-",Telecine Action HD
+http://45.176.240.128:8889/play/a00w/index.m3u8
+#EXTINF:-1 group-title="-",Telecine Cult HD
+http://45.176.240.128:8889/play/a03f/index.m3u8
+#EXTINF:-1 group-title="-",Telecine Fun HD
+http://45.176.240.128:8889/play/a00y/index.m3u8
+#EXTINF:-1 group-title="-",Telecine Pipoca HD
+http://45.176.240.128:8889/play/a00z/index.m3u8
+#EXTINF:-1 group-title="-",Telecine Premium HD
+http://45.176.240.128:8889/play/a00v/index.m3u8
+#EXTINF:-1 group-title="-",Telecine Touch HD
+http://45.176.240.128:8889/play/a00x/index.m3u8
+#EXTINF:-1 group-title="-",The History Channel HD a00
+http://45.176.240.128:8889/play/a01a/index.m3u8
+#EXTINF:-1 group-title="-",USA HD
+http://45.176.240.128:8889/play/a02u/index.m3u8
+#EXTINF:-1 group-title="-",Universal TV HD a01
+http://45.176.240.128:8889/play/a032/index.m3u8
+#EXTINF:-1 group-title="-",Woohoo HD
+http://45.176.240.128:8889/play/a01h/index.m3u8
+#EXTINF:-1 group-title="-",XSPORTS
+http://45.176.240.128:8889/play/a04d/index.m3u8
+#EXTINF:-1 group-title="-",sportv 2 HD a02
+http://45.176.240.128:8889/play/a03b/index.m3u8
+#EXTINF:-1 group-title="-",sportv 3 HD a02
+http://45.176.240.128:8889/play/a03a/index.m3u8
+#EXTINF:-1 group-title="-",sportv HD a00
+http://45.176.240.128:8889/play/a01c/index.m3u8
+
+
+29/06/26
 #EXTINF:-1 group-title="-",A&E
 http://45.190.184.79:5800/play/a03l/index.m3u8
 #EXTINF:-1 group-title="-",A&E HD

@@ -1,7 +1,5 @@
 #EXTM3U
 
-
-
 #EXTINF:-1 group-title="-",DSPORT
 https://streamvidex.qzz.io/videx/dsportsar/index.m3u8
 #EXTINF:-1 group-title="-",DSPORT+

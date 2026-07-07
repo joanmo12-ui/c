@@ -6,8 +6,298 @@ https://streamvidex.qzz.io/videx/dsportsar/index.m3u8
 https://streamvidex.qzz.io/videx/dsportsplus/index.m3u8
 
 07/07/26
-#EXTINF:-1 group-title="-", LISTA 07/07/26
+#EXTINF:-1 group-title="-", LISTA 07/07/26 ___________________________
 https://iptv-org.github.io/iptv/index.m3u
+
+#EXTINF:-1 group-title="-", ASTRA _____________________
+#EXTINF:11,AE HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a123/index.m3u8
+#EXTINF:0,AMC HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a12a/index.m3u8
+#EXTINF:0,AMC Series
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a11m/index.m3u8
+#EXTINF:0,AXN
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a10j/index.m3u8
+#EXTINF:0,AXN HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a0sg/index.m3u8
+#EXTINF:0,Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a12f/index.m3u8
+#EXTINF:0,Canal Caracol
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a0xo/index.m3u8
+#EXTINF:0,Canal N
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a10h/index.m3u8
+#EXTINF:0,Canal RCN SD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a11t/index.m3u8
+#EXTINF:0,Canal Uno
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a0xn/index.m3u8
+#EXTINF:0,Cartoon Network HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a0yu/index.m3u8
+#EXTINF:0,Cartoonito
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a121/index.m3u8
+#EXTINF:0,Cinecanal HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a0sc/index.m3u8
+#EXTINF:0,Cinemax
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a12k/index.m3u8
+#EXTINF:0,Clover
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a11b/index.m3u8
+#EXTINF:0,Comedy Central HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a124/index.m3u8
+#EXTINF:0,DAYSTAR
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a11k/index.m3u8
+#EXTINF:0,DHE HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a12h/index.m3u8
+#EXTINF:0,De Pelicula
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a0yy/index.m3u8
+#EXTINF:0,Discovery H&H
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a10k/index.m3u8
+#EXTINF:0,Discovery Kids
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a11e/index.m3u8
+#EXTINF:0,Discovery Kids HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a120/index.m3u8
+#EXTINF:0,Discovery Science
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a0xc/index.m3u8
+#EXTINF:0,Discovery Theater HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a0z0/index.m3u8
+#EXTINF:0,Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a0nh/index.m3u8
+#EXTINF:0,Disney Channel HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a0sj/index.m3u8
+#EXTINF:0,Disney Junior
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a0p9/index.m3u8
+#EXTINF:0,ESPN
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a0y2/index.m3u8
+#EXTINF:0,ESPN -
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a0y0/index.m3u8
+#EXTINF:0,ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a11n/index.m3u8
+#EXTINF:0,ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a109/index.m3u8
+#EXTINF:0,ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a105/index.m3u8
+#EXTINF:0,ESPN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a108/index.m3u8
+#EXTINF:0,ESPN 5
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a10y/index.m3u8
+#EXTINF:11,ESPN 5 HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a128/index.m3u8
+#EXTINF:0,ESPN 6 HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a122/index.m3u8
+#EXTINF:0,ESPN 7
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a11f/index.m3u8
+#EXTINF:0,ESPN 7 HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a0sd/index.m3u8
+#EXTINF:0,EWTN
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a0to/index.m3u8
+#EXTINF:0,El Gourmet
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a10r/index.m3u8
+#EXTINF:0,El Gourmet HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a125/index.m3u8
+#EXTINF:0,Enlace
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a135/index.m3u8
+#EXTINF:0,Espn Premium
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a0zb/index.m3u8
+#EXTINF:0,FX
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a10l/index.m3u8
+#EXTINF:0,FX HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a12g/index.m3u8
+#EXTINF:0,Film&Arts
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a11l/index.m3u8
+#EXTINF:0,Golden Edge
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a11o/index.m3u8
+#EXTINF:0,Golden HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a11h/index.m3u8
+#EXTINF:0,HBO Family HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a12i/index.m3u8
+#EXTINF:0,HBO HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a12b/index.m3u8
+#EXTINF:0,HBO Mundi
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a10x/index.m3u8
+#EXTINF:0,HBO Plus
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a11r/index.m3u8
+#EXTINF:0,HBO Signature
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a10w/index.m3u8
+#EXTINF:0,History 2
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a11i/index.m3u8
+#EXTINF:0,History Channel
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a11g/index.m3u8
+#EXTINF:0,History Channel HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a0s9/index.m3u8
+#EXTINF:0,Home & Health HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a0yv/index.m3u8
+#EXTINF:0,ID
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a0r4/index.m3u8
+#EXTINF:0,ID HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a0sh/index.m3u8
+#EXTINF:0,Las Estrellas HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a0z5/index.m3u8
+#EXTINF:0,Love Nature
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a10i/index.m3u8
+#EXTINF:0,Movistar Deportes
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a10f/index.m3u8
+#EXTINF:0,Nick Jr.
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a10t/index.m3u8
+#EXTINF:0,Nickelodeon HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a0z3/index.m3u8
+#EXTINF:0,Nuestra Tele
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a11j/index.m3u8
+#EXTINF:0,OROMAR TV
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a11s/index.m3u8
+#EXTINF:0,Panamericana
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a10v/index.m3u8
+#EXTINF:0,Pasiones HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a0z1/index.m3u8
+#EXTINF:0,Plim Plim TV
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a10e/index.m3u8
+#EXTINF:0,Plus TV Life
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a10g/index.m3u8
+#EXTINF:0,Senal Colombia
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a0xq/index.m3u8
+#EXTINF:0,Sony
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a10m/index.m3u8
+#EXTINF:0,Sony HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a0se/index.m3u8
+#EXTINF:0,Space HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a12j/index.m3u8
+#EXTINF:0,Star Channel HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a0sn/index.m3u8
+#EXTINF:0,Sun Channel HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a132/index.m3u8
+#EXTINF:0,TCM
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a11q/index.m3u8
+#EXTINF:0,TLC
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a12l/index.m3u8
+#EXTINF:0,TNT
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a10p/index.m3u8
+#EXTINF:0,TNT HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a107/index.m3u8
+#EXTINF:0,TNT Novelas HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a134/index.m3u8
+#EXTINF:0,TNT Series HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a103/index.m3u8
+#EXTINF:0,TVN
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a0yt/index.m3u8
+#EXTINF:0,Teleamazonas
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a0y4/index.m3u8
+#EXTINF:0,Telecaribe
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a131/index.m3u8
+#EXTINF:0,Telef
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a10u/index.m3u8
+#EXTINF:0,Telemundo
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a137/index.m3u8
+#EXTINF:0,Tlnovelas
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a0yx/index.m3u8
+#EXTINF:0,Tooncast
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a12e/index.m3u8
+#EXTINF:0,UNIVERSAL CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a126/index.m3u8
+#EXTINF:0,Universal
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a10s/index.m3u8
+#EXTINF:0,Warner Channel
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a10q/index.m3u8
+#EXTINF:0,Warner TV HD
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a0sf/index.m3u8
+#EXTINF:0,Win
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a12z/index.m3u8
+#EXTINF:0,Zona Latina
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a11c/index.m3u8
+#EXTINF:0,Zoom
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a11w/index.m3u8
 
 01/07/26
 #EXTINF:-1 group-title="-",A&E HD

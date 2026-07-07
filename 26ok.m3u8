@@ -5,6 +5,10 @@ https://streamvidex.qzz.io/videx/dsportsar/index.m3u8
 #EXTINF:-1 group-title="-",DSPORT+
 https://streamvidex.qzz.io/videx/dsportsplus/index.m3u8
 
+07/07/26
+#EXTINF:-1 group-title="-", LISTA 07/07/26
+https://iptv-org.github.io/iptv/index.m3u
+
 01/07/26
 #EXTINF:-1 group-title="-",A&E HD
 http://45.176.240.128:8889/play/a02l/index.m3u8

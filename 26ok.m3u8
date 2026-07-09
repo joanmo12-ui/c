@@ -4052,6 +4052,7 @@ http://148.230.28.85:8002/play/122
 http://148.230.28.85:8002/play/004
 
 #------------Brasil 26/03/26-----------------------
+#EXTINF:-1 group-title="-",  ___________________________LISTA BRASIL 26/03/26 ___________________________
 #EXTINF:-1 group-title="-",AMC
 http://45.178.215.69:8000/play/a05b
 #EXTINF:-1 group-title="-",AXN
@@ -4131,7 +4132,7 @@ http://45.178.215.69:8000/play/a04k
 
 
 
-#-----------------MX--------------------
+#EXTINF:-1 group-title="-",  ___________________________LISTA MX ___________________________
 #EXTINF:-1 tvg-id="AZTECAUNO" tvg-name="AZTECA UNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="TV ABIERTA", AZTECA UNO 1.1 
 http://187.249.112.44:9981/stream/channelid/1290009922?profile=pass
 

@@ -4,10 +4,10 @@
 https://streamvidex.qzz.io/videx/dsportsar/index.m3u8
 #EXTINF:-1 group-title="-",DSPORT+
 https://streamvidex.qzz.io/videx/dsportsplus/index.m3u8
-
+ ___________________________LISTA 07/07/26 ___________________________
 #EXTINF:-1 group-title="-",  ___________________________LISTA 07/07/26 ___________________________
 https://iptv-org.github.io/iptv/index.m3u
-
+ ___________________________ASTRA _____________________
 #EXTINF:-1 group-title="-",  ___________________________ASTRA _____________________
 #EXTINF:11,AE HD
 #EXTVLCOPT:network-caching=1000

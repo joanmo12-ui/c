@@ -1,11 +1,13 @@
 #EXTM3U
+__LISTA 07/07/26 ___________________________
+#EXTINF:-1 group-title="-", _LISTA MXPLUTO ___________________________
+https://github.com/iptv-org/iptv/blob/master/streams/mx_pluto.m3u
 
-
-____________LISTA 07/07/26 ___________________________
-#EXTINF:-1 group-title="-",  ___________________________LISTA 07/07/26 ___________________________
+_LISTA 07/07/26 ___________________________
+#EXTINF:-1 group-title="-",  __LISTA 07/07/26 ___________________________
 https://iptv-org.github.io/iptv/index.m3u
 ____________ASTRA _____________________
-#EXTINF:-1 group-title="-",  ___________________________ASTRA _____________________
+#EXTINF:-1 group-title="-",  _ASTRA _____________________
 #EXTINF:11,AE HD
 #EXTVLCOPT:network-caching=1000
 http://186.33.57.220:8000/play/a123/index.m3u8
@@ -296,7 +298,7 @@ http://186.33.57.220:8000/play/a11c/index.m3u8
 http://186.33.57.220:8000/play/a11w/index.m3u8
 
 ___________LISTA 01/07/26 ____________________
-#EXTINF:-1 group-title="-",  ______________________LISTA 01/07/26 ____________________
+#EXTINF:-1 group-title="-",  _LISTA 01/07/26 ____________________
 #EXTINF:-1 group-title="-",A&E HD
 http://45.176.240.128:8889/play/a02l/index.m3u8
 #EXTINF:-1 group-title="-",AMC HD a00

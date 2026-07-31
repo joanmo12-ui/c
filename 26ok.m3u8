@@ -114,9 +114,10 @@ http://190.83.85.68:80/tv_brasil/index.m3u8
 http://190.83.85.68:80/gazeta/index.m3u8
 
 
-_____________LISTA 07/07/26 ___________________________
-#EXTINF:-1 group-title="-",  __LISTA 07/07/26 ___________________________
+_____________ 07/07/26 ___________________________
+#EXTINF:-1 group-title="-", LISTA 07/07/26 ___________________________
 https://iptv-org.github.io/iptv/index.m3u
+
 ____________ASTRA _____________________
 #EXTINF:-1 group-title="-",  _ASTRA _____________________
 #EXTINF:11,AE HD
